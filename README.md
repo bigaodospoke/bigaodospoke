@@ -22,7 +22,7 @@ Biblioteca de peças de PC. Basta colar o link do produto (Kabum, Terabyte, Amaz
 Site de comunidade de um servidor de Cobblemon: inscrições, painel administrativo em tempo real e bot do Discord.<br>
 `Express` `Socket.io` `Discord.js` `SQLite`
 
-### Mods para Cobblemon
+### Mods para Minecraft
 
 Mods open source para Minecraft 1.21.1.
 
@@ -32,6 +32,8 @@ Mods open source para Minecraft 1.21.1.
 | [ShifuDex](https://github.com/bigaodospoke/ShifuDex) | Recompensas por progresso na Pokédex, missões diárias e narração da Pokédex em português | Fabric |
 | [ShifuChests](https://github.com/bigaodospoke/ShifuChests) | Baús com chave e roleta animada que sorteia Pokémon e itens | Fabric e NeoForge |
 | [shifu-agent](https://github.com/bigaodospoke/shifu-agent) | Entrega dentro do jogo as compras feitas na loja do servidor | Fabric e NeoForge |
+| [Ultimate Dark Adventure](https://github.com/bigaodospoke/UltimateDarkAdventure) | Fantasia sombria em torno do Olho: mobs e bosses que despertam, armas 3D, altar e progressão completa | NeoForge |
+| [Auras](https://github.com/bigaodospoke/Auras) | 12 auras animadas em volta dos jogadores, de raios e fogo até lorde vampiro, necromante e pokébola | Fabric e NeoForge |
 
 ### Tecnologias
 
