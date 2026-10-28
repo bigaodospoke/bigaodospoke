@@ -34,6 +34,9 @@ Mods open source para Minecraft 1.21.1.
 | [shifu-agent](https://github.com/bigaodospoke/shifu-agent) | Entrega dentro do jogo as compras feitas na loja do servidor | Fabric e NeoForge |
 | [Ultimate Dark Adventure](https://github.com/bigaodospoke/UltimateDarkAdventure) | Fantasia sombria em torno do Olho: mobs e bosses que despertam, armas 3D, altar e progressão completa | NeoForge |
 | [Auras](https://github.com/bigaodospoke/Auras) | 12 auras animadas em volta dos jogadores, de raios e fogo até lorde vampiro, necromante e pokébola | Fabric e NeoForge |
+| [ShifuTower](https://github.com/bigaodospoke/ShifuTower) | Torre de Batalha com andares de treinadores aleatórios, Mestre da Torre com lendários, ranking e loja de Battle Points | Fabric |
+| [ShifuRace](https://github.com/bigaodospoke/ShifuRace) | Corridas de Pokémon estilo F1 com pistas montadas no jogo, cronômetro por volta e placar de recordes | Fabric |
+| [ShifuStrike](https://github.com/bigaodospoke/ShifuStrike) | Evento de CS com rodadas, loja de armas, bomba C4, desarme e a economia do CS | Fabric |
 
 ### Tecnologias
 
